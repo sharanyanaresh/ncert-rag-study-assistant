@@ -1,0 +1,18 @@
+
+
+
+# requirements.txt
+
+```text
+pymupdf
+pandas
+rank-bm25
+transformers
+sentencepiece
+jupyter
+notebook
+groq
+ipykernel
+numpy
+tqdm
+regex
