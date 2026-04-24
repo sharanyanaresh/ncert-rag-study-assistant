@@ -248,3 +248,22 @@ Streamlit web interface
 Author ->
 Sharanya Naresh
 PG Diploma AI-ML & Agentic AI Engineering
+
+# NCERT Science RAG Study Assistant
+
+A Retrieval-Augmented Generation (RAG) system built using NCERT Class 9 Science textbook.
+
+## Included Versions
+
+### Version 1 — Chapter Optimized
+Focused on "Force and Laws of Motion" for highest retrieval accuracy.
+
+### Version 2 — Full Textbook Prototype
+Scaled to the entire textbook with chapter-aware retrieval.
+
+## Why Two Versions?
+
+This demonstrates an important real-world AI engineering principle:
+
+- build a narrow system that works well
+- then scale and analyze tradeoffs
